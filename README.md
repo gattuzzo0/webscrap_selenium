@@ -1,5 +1,5 @@
 # Website Scraper Scripts
-![image](https://github.com/user-attachments/assets/4667d7d7-ed75-44b2-86c3-77c620f95a57)
+![image](https://github.com/user-attachments/assets/4907f50f-e91b-4933-9bea-dbb08d9e1d98)
 
 This repository contains two Python scripts designed to scrape websites for data and PDF files:
 
